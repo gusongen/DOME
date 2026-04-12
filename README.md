@@ -59,9 +59,9 @@ conda env create --file environment.yml
 
 3. Download our generated train/val pickle files and put them in `data/`
 
-    [nuscenes_infos_train_temporal_v3_scene.pkl](https://cloud.tsinghua.edu.cn/d/9e231ed16e4a4caca3bd/)
+    [nuscenes_infos_train_temporal_v3_scene.pkl](https://drive.google.com/file/d/19l2zzinSWd4rinwDAkN1naa_Xjh2ZWhT/view)
 
-    [nuscenes_infos_val_temporal_v3_scene.pkl](https://cloud.tsinghua.edu.cn/d/9e231ed16e4a4caca3bd/)
+    [nuscenes_infos_val_temporal_v3_scene.pkl](https://drive.google.com/file/d/1VzINYKgQAnw_xERZ4Foqz2nD-SQpMhV0/view)
 
   The dataset should be organized as follows:
 
