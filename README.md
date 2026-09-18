@@ -20,7 +20,6 @@ https://github.com/user-attachments/assets/f29149f3-a749-4c55-9777-3d05912bebe1
 
 
 
-
 <img src="static/images/teaser12.png" alt="teaser"/>
 Our Occupancy World Model can generate long-duration occupancy forecasts and can be effectively controlled by trajectory conditions.
 
@@ -50,6 +49,7 @@ cd DOME
 ### environment setup
 ```
 conda env create --file environment.yml
+conda activate Occworld
 ```
 
 ### data preparation
@@ -133,5 +133,3 @@ This code draws inspiration from their work. We sincerely appreciate their excel
   year={2024}
 }
 ```
-
-
